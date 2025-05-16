@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SOSPETER03/SOSPETER03/main/sospeter_github_banner.png" alt="GitHub banner" />
+  <img src="sospeter_github_banner.png" alt="GitHub Banner" />
 </p>
+
 # 👋 Hi, I'm Sospeter Njenga
 
 🎓 BSc. Statistics (Major in Data Science)  
