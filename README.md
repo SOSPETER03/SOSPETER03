@@ -6,15 +6,13 @@
 
 🎓 BSc. Statistics (Major in Data Science)  
 📍 Nairobi, Kenya | 🌐 [Portfolio Website](https://sospeter03.github.io/)  
-📬 sospeternjenga03@gmail.com
+📬 sospeternjenga03@gmail.com  
 
 ---
 
 ## 🚀 About Me
 
-Aspiring Data Analyst with a strong background in statistical modeling, time series forecasting, and business intelligence.
-
-My featured project — [Tesla Stock Forecasting](https://sospeter03.github.io/) — demonstrates ARIMA, SARIMA, LSTM, and Hybrid models with interactive documentation and diagnostics.
+Aspiring Data Analyst with a strong foundation in data science, time series forecasting, and business intelligence. I enjoy transforming raw datasets into actionable insights, building full-stack analytics projects from the ground up.
 
 ---
 
@@ -22,16 +20,34 @@ My featured project — [Tesla Stock Forecasting](https://sospeter03.github.io/)
 
 - **Languages:** Python, R, SQL  
 - **Tools:** Excel, Power BI, Tableau, SPSS, Stata  
-- **Libraries:** pandas, statsmodels, scikit-learn, keras, plotly  
-- **Certifications:** IBM (SQL), Google (R), Simplilearn (Excel, Power BI, Tableau)
+- **Libraries:** pandas, statsmodels, scikit-learn, keras, plotly, streamlit  
+- **Certifications:**  
+  - 📘 IBM: Databases and SQL for Data Science  
+  - 📘 Google: Data Analysis with R Programming  
+  - 📘 Simplilearn: Excel, Power BI, Tableau  
 
 ---
 
-## 📈 Featured Work
+## 📈 Featured Projects
 
-- 🔗 [Tesla Stock Forecasting](https://sospeter03.github.io/)
-- 🛠 Forecasting pipeline with ARIMA, SARIMAX, LSTM, Hybrid modeling
-- 📊 Includes model diagnostics, residuals, and evaluation metrics
+### 🔹 [Smart Retail Analytics](https://github.com/SOSPETER03/smart-retail-analytics)
+> A full-stack data science solution simulating a retail environment  
+**Highlights:**
+- SQL Server database design, Python data generation (Faker)
+- Forecasting sales with SARIMA
+- Customer segmentation using RFM + KMeans
+- Interactive Streamlit dashboard  
+📄 [Project Report (PDF)](https://github.com/SOSPETER03/smart-retail-analytics/blob/main/SmartRetailAnalytics_Portfolio_Report.pdf)  
+📊 [Dashboard Snapshot (PDF)](https://github.com/SOSPETER03/smart-retail-analytics/blob/main/Streamlit.pdf)
+
+---
+
+### 🔹 [Tesla Stock Forecasting](https://sospeter03.github.io/)
+> Time series forecasting pipeline for Tesla Inc. stock prices  
+**Highlights:**
+- ARIMA, SARIMA, LSTM, and Hybrid models
+- Model comparison with RMSE, MAE, AIC/BIC
+- Interactive documentation & visualizations
 
 ---
 
